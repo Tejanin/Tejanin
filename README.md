@@ -44,11 +44,9 @@ Aquí hay algunos de mis proyectos más relevantes:
 
 ## 🛠️ Habilidades Técnicas
 
-<p align="center">
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=cs,dart,js,flutter,unity,git" alt="Habilidades Técnicas" />
   </a>
-</p>
 
 ---
 
