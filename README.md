@@ -9,18 +9,12 @@
 ---
 
 ## 📊 Estadísticas de GitHub
-
-<p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Tejanin&show_icons=true&theme=tokyonight" alt="GitHub Stats" />
-</p>
 
 ---
 
 ## 🧪 Lenguajes más utilizados
-
-<p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Tejanin&layout=compact&theme=tokyonight" alt="Top Languages" />
-</p>
 
 ---
 
@@ -52,7 +46,7 @@ Aquí hay algunos de mis proyectos más relevantes:
 
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=cs,dart,js,sql,flutter,unity,git" alt="Habilidades Técnicas" />
+    <img src="https://skillicons.dev/icons?i=cs,dart,js,flutter,unity,git" alt="Habilidades Técnicas" />
   </a>
 </p>
 
