@@ -57,4 +57,5 @@ Aquí hay algunos de mis proyectos más relevantes:
 
 - GitHub: [@Tejanin](https://github.com/Tejanin)
 
-<p align="center">✨ ¡Gracias por visitar mi perfil! No dudes en dejar ⭐ en los proyectos que te gusten. ✨</p>
+---
+<h1 align="center">✨ ¡Gracias por visitar mi perfil! No dudes en dejar ⭐ en los proyectos que te gusten. ✨</h1>
