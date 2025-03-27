@@ -1,20 +1,26 @@
-# 👋 ¡Hola! Soy Mario Lora
+<h1 align="center">👋 ¡Hola! Soy Mario Lora</h1>
+<p align="center">También conocido como <strong>Tejanin</strong> en GitHub</p>
 
-También conocido como **Tejanin** en GitHub.  
-💻 Soy un desarrollador apasionado por la tecnología y la programación.  
-A continuación, te presento un resumen de mi perfil y proyectos destacados.
+<p align="center">
+  💻 Desarrollador apasionado por la tecnología y la programación.<br>
+  🎯 En constante aprendizaje | 🚀 Backend | 🎮 Game Dev | 🌐 Explorando Full Stack
+</p>
 
 ---
 
 ## 📊 Estadísticas de GitHub
 
-![Estadísticas de GitHub](https://github-readme-stats.vercel.app/api?username=Tejanin&show_icons=true&theme=tokyonight)
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Tejanin&show_icons=true&theme=tokyonight" alt="GitHub Stats" />
+</p>
 
 ---
 
 ## 🧪 Lenguajes más utilizados
 
-![Lenguajes más utilizados](https://github-readme-stats.vercel.app/api/top-langs/?username=Tejanin&layout=compact&theme=tokyonight)
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Tejanin&layout=compact&theme=tokyonight" alt="Top Languages" />
+</p>
 
 ---
 
@@ -22,21 +28,41 @@ A continuación, te presento un resumen de mi perfil y proyectos destacados.
 
 Aquí hay algunos de mis proyectos más relevantes:
 
-- 📚 **BookAPI**: Proyecto orientado al aprendizaje donde utilizo herramientas como **Dapper**, **xUnit** y migraciones de base de datos con **EFCore**.
+- 📚 [**BookAPI**](https://github.com/Tejanin/BookAPI)  
+  Proyecto orientado al aprendizaje donde utilizo herramientas como **Dapper**, **xUnit** y migraciones de base de datos con **EFCore**.
 
-- 🍽️ **ComeYa-Backend**: Backend desarrollado en **C#**.
+- 🍽️ [**ComeYa-Backend**](https://github.com/Tejanin/ComeYa-Backend)  
+  Backend desarrollado en **C#** para una aplicación de pedidos de comida.
 
-- 🌦️ **WeatherApp-MarioLora**: Aplicación del clima desarrollada en **Dart**.
+- 🌦️ [**WeatherApp-MarioLora**](https://github.com/Tejanin/WeatherApp-MarioLora)  
+  Aplicación del clima desarrollada en **Flutter (Dart)**.
 
-- 💱 **CriptoConverter-MarioLora**: Aplicación para convertir criptomonedas, también desarrollada en **Dart**.
+- 💱 [**CriptoConverter-MarioLora**](https://github.com/Tejanin/CriptoConverter-MarioLora)  
+  Aplicación para convertir criptomonedas, también desarrollada en **Dart**.
 
-- 🏠 **AvaluoBackend**: Otro proyecto backend en **C#**.
+- 🏠 [**AvaluoBackend**](https://github.com/Tejanin/AvaluoBackend)  
+  Otro proyecto backend en **C#**, orientado al sector educacional.
 
-- 📲 **Mario-Lora-intecsocialapp**: Aplicación social desarrollada en **Dart**.
+- 📲 [**Mario-Lora-intecsocialapp**](https://github.com/Tejanin/Mario-Lora-intecsocialapp)  
+  Aplicación social desarrollada en **Flutter**.
+
+---
+
+## 🛠️ Habilidades Técnicas
+
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=cs,dart,js,sql,flutter,unity,git" alt="Habilidades Técnicas" />
+  </a>
+</p>
 
 ---
 
 ## 📬 Conéctate conmigo
 
-¡Gracias por visitar mi perfil!  
-Siéntete libre de explorar mis proyectos y contribuir si lo deseas. 🌟  
+¿Te interesa colaborar o simplemente saludar?  
+¡Mis mensajes están abiertos! 💬
+
+- GitHub: [@Tejanin](https://github.com/Tejanin)
+
+<p align="center">✨ ¡Gracias por visitar mi perfil! No dudes en dejar ⭐ en los proyectos que te gusten. ✨</p>
