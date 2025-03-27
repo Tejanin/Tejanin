@@ -1,29 +1,42 @@
-¡Hola! Soy **Mario Lora**, también conocido como **Tejanin** en GitHub. Soy un desarrollador apasionado por la tecnología y la programación. A continuación, te presento un resumen de mi perfil y proyectos destacados.
+# 👋 ¡Hola! Soy Mario Lora
 
-## Estadísticas de GitHub
+También conocido como **Tejanin** en GitHub.  
+💻 Soy un desarrollador apasionado por la tecnología y la programación.  
+A continuación, te presento un resumen de mi perfil y proyectos destacados.
 
-![Estadísticas de GitHub](https://github-readme-stats.vercel.app/api?username=Tejanin&show_icons=true&theme=radical)
+---
 
-## Lenguajes más utilizados
+## 📊 Estadísticas de GitHub
 
-![Lenguajes más utilizados](https://github-readme-stats.vercel.app/api/top-langs/?username=Tejanin&layout=compact&theme=radical)
+![Estadísticas de GitHub](https://github-readme-stats.vercel.app/api?username=Tejanin&show_icons=true&theme=tokyonight)
 
-## Proyectos Destacados
+---
+
+## 🧪 Lenguajes más utilizados
+
+![Lenguajes más utilizados](https://github-readme-stats.vercel.app/api/top-langs/?username=Tejanin&layout=compact&theme=tokyonight)
+
+---
+
+## 🚀 Proyectos Destacados
 
 Aquí hay algunos de mis proyectos más relevantes:
 
-- **BookAPI**: Proyecto orientado al aprendizaje donde utilizo herramientas como Dapper, xUnit y migraciones de base de datos con EFCore.
+- 📚 **BookAPI**: Proyecto orientado al aprendizaje donde utilizo herramientas como **Dapper**, **xUnit** y migraciones de base de datos con **EFCore**.
 
-- **ComeYa-Backend**: Backend desarrollado en C#.
+- 🍽️ **ComeYa-Backend**: Backend desarrollado en **C#**.
 
-- **WeatherApp-MarioLora**: Aplicación del clima desarrollada en Dart.
+- 🌦️ **WeatherApp-MarioLora**: Aplicación del clima desarrollada en **Dart**.
 
-- **CriptoConverter-MarioLora**: Aplicación para convertir criptomonedas, también desarrollada en Dart.
+- 💱 **CriptoConverter-MarioLora**: Aplicación para convertir criptomonedas, también desarrollada en **Dart**.
 
-- **AvaluoBackend**: Otro proyecto backend en C#.
+- 🏠 **AvaluoBackend**: Otro proyecto backend en **C#**.
 
-- **Mario-Lora-intecsocialapp**: Aplicación social desarrollada en Dart.
+- 📲 **Mario-Lora-intecsocialapp**: Aplicación social desarrollada en **Dart**.
 
-## Conéctate conmigo
+---
 
-¡Gracias por visitar mi perfil! Siéntete libre de explorar mis proyectos y contribuir si lo deseas. 
+## 📬 Conéctate conmigo
+
+¡Gracias por visitar mi perfil!  
+Siéntete libre de explorar mis proyectos y contribuir si lo deseas. 🌟  
